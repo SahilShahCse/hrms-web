@@ -1,11 +1,11 @@
 {
-    "name": "hrms",
-    "short_name": "hrms",
+    "name": "HRMS",
+    "short_name": "HRMS",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "People, attendance, leave and payroll - the HR console.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
